@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="omnirom2"
-           fetch="ssh://git@github.com/omnirom"
+           fetch="https://github.com/omnirom"
            review="gerrit.omnirom.org" />
 
   <!-- private OmniROM Projects -->
